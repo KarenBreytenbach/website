@@ -3,7 +3,7 @@ Passmarked vs. Competitors
 
 There are many software packages that do parts of what Passmarked does. Most of these packages specialise in one of Passmarked's many categories. There are also generalists that cross over between different categories. In the light of this we will be splitting our competitors into two categories: Generalists and Specialists. 
 
-We take this seriously and therefore this content is open source and any discrepancies may be solved by sending us a pull request.
+We take this seriously and therefore this content is [open source](https://github.com/passmarked/website/blob/master/docs/competitors.md) and any discrepancies may be solved by sending us a pull request.
 
 Generalists
 ===========
