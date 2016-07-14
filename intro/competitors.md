@@ -22,7 +22,7 @@ DareBoost
 
 Most probably our closest competitor. They offer a free one page test focussing on performance. Their tests are great and useful albeit opinionated. Passmarked focuses on industry standards and the opinions / expertise of all developers. 
 
-Daily monitoring is only available on their premium package. And then only for a very small amount of pages. We find this to be pointless as if and when a serious new issue comes to light our customers want to know about it immediately. The internet changes all the time and it is doing so in at an exponential pace. We keep you up to date :)
+Daily monitoring is only available on their premium package. And then only for a very small amount of pages. We find this to be pointless as if and when a serious new issue comes to light our customers want to know about it immediately. The internet changes all the time and it is doing so at an exponential pace. We keep you up to date :)
 
 For a front-end testing platform to be complete, parity with industry tools us a must. Checking *everything* that Google PageSpeed, SSLLabs, W3C etc. checks is non-negotiable. Unless you want to run multiple (and pay for them) platforms at the same time.
 

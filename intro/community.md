@@ -19,3 +19,6 @@ Our Living Score
 ----------------
 
 Our system constantly learns and adjusts its scoring based on how users interact with it. We have an active voting system where you may vote a certain rule up or down influencing its effect on the score. This enables us to score your site based on what developers currently think.
+
+---
+cameron benjamin
